@@ -1,0 +1,15 @@
+pwd- present working directory (pwd)
+cd - change directory (cd desktop)
+cd .. - last directory (cd ..) 
+cd ../.. - takes you two folders back
+ls- list directory or folder item (ls dsktop)
+mkdir - create a directory(cd desktop => mkdir newfolder) 
+touch - creates an empty file (touch index.js/ touch index.txt)
+cat- prints contents of a file (cat index.txt)
+vi - lets you edit files ()
+mv - move files from one foldeer to another (mv first.txt desktop/)
+cp - copy files from one folder to another (cp first.text test2)
+nvm- 
+npm- node package manager (npm install lib_name)
+node-
+terminal is nothing but another interface to do things on your machine

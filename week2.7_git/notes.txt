@@ -1,0 +1,24 @@
+push=> send a change to another repository(may require permission)
+pull=> grab a change from repository
+*History of Commits shows the History of changes made => the green line represents the changes made and the white line represents the part that is untouched
+the red line represents the line of code removed.
+
+
+*Git commands (bash)=> 
+1.git init (initialise a repo)
+2.ls -la (checks last repo)
+3.git status(checks the status and changes of the repo)
+4.git add . (adds in repository)
+5.git commit -m "any messege that you want to add"
+
+
+*GIT WORKFLOW
+Write code -> stage changes (git add) -> commit changes -> git push
+*GITHUB WORKFLOW
+wirte code -> commit code changes -> Pull requests
+
+
+*
+
+
+
