@@ -1,2 +1,0 @@
-GLOBAL CATHES =>  global cathes helps you give the user a better error messege
-Error Handling Middlewares => it is a special type of middleware that has three arguments instead of three ((err, req, res, next)), EXPRESS recognizes it as an error- handling middleware because of four arguments

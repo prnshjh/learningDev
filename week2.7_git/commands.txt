@@ -37,3 +37,9 @@
 19. git stash pop: Applies the most recently stashed changes to the working directory.
 
 20. git tag [tag name]: Creates a tag to mark a specific commit in history.
+
+21. git pull origin main
+git add .
+git commit -m "Resolved merge conflicts"
+git push origin main
+
