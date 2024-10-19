@@ -8,6 +8,10 @@ vector db
 MongoDB-> no sql db
 in each db, it lets you create 
 
+
+* database allows create read update and delete the data (CRUD)
+* mongoose-> first step is to define your schema called structured query language eg(users{name:, sID:, userName etc})
+* 
 */
 const express = require("express");
 const jwt = require("jsonwebtoken");
